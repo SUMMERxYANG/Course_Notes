@@ -1,4 +1,1 @@
-These are my notes taken in markdown + latex macros and snippets. 
-
-
-
+These are my notes taken in markdown + latex macros and snippets, then rendered using custom HTML.
